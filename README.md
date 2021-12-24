@@ -19,12 +19,12 @@ The deliverable for this assignment was a properly refactored code that executed
 As you can see from the screenshots below, my refactored code ran the code for ‘2017’ in 0.164 seconds.  It ran my refactored code for ‘2018’ in 0.148 seconds.  The results also reveal that, in general, 2017 had better returns for most of the identified stocks than 2018.  
 
 
-***2017 Refactored Code
+***2017 Refactored Code***
 
  ![image](https://user-images.githubusercontent.com/92705556/147314682-79acd2a8-b99f-478a-8932-cf420fb44846.png)
 
 
-***2018 Refactored Code
+***2018 Refactored Code***
 
  ![image](https://user-images.githubusercontent.com/92705556/147314691-799944b9-ebd6-4f55-8b42-de16ef8b24a9.png)
  
@@ -32,12 +32,12 @@ As you can see from the screenshots below, my refactored code ran the code for �
 When comparing the time taken to run the refactored code to the time taken to run the original code (shown below), you can see that the refactored code ran 2017 data in one-six the time and the 2018 in one-seventh the time.  This confirms that the refactored code is faster and more efficient than the original code.  
 
 
-***2017 Original Code
+***2017 Original Code***
 
 ![image](https://user-images.githubusercontent.com/92705556/147314708-28383d7b-b460-4001-98c1-7c8b0373910e.png)
 
 
-***2018 Original Code
+***2018 Original Code***
 
  ![image](https://user-images.githubusercontent.com/92705556/147314715-30fd6d0b-14fc-4b3b-9f0c-ca02f9eae9ad.png)
 
@@ -46,14 +46,14 @@ When comparing the time taken to run the refactored code to the time taken to ru
 
 The main difference between the original code and the refactored code is that the refactored code uses more arrays and a tickerIndex variable.  The Original Code does not use these arrays and instead uses nested for statements.  
 
-***Examples of Refactored Code with arrays and variables
+***Examples of Refactored Code with arrays and variables***
 
 ![image](https://user-images.githubusercontent.com/92705556/147314746-4de8797a-bc8d-432d-aa59-6e07d56350c5.png)
 
 ![image](https://user-images.githubusercontent.com/92705556/147314762-906c52b2-3090-4562-b660-b02cc9e3a87e.png)
 
  
-***Examples of Original Code
+***Examples of Original Code***
 
  ![image](https://user-images.githubusercontent.com/92705556/147314774-5fd9a1df-7507-40ae-80ad-b03cb34cd132.png)
 
